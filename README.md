@@ -1,6 +1,6 @@
 Gate 2024
 
-Probability and Statistics:
+1. **Probability and Statistics**
 Linear Algebra:
 Calculus and Optimization:
 Programming, Data Structures and Algorithms:
