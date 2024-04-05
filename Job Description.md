@@ -14,3 +14,7 @@ Collaborate with various teams on new product features and improvements of exist
 conversational AI framework with other NVIDIA products
 
 Participate in developing and reviewing code, design documents, use case reviews, and test plan reviews and help innovate, identify problems, recommend solutions and perform triage in a collaborative team environment.
+
+Do you have experience in Fine Tuning LLM's like GPT, Llama, Falcon, Palm
+
+Do you have experience working with Vector Databases like Pinecone, Weaviate, Chroma DB , Faiss ?
