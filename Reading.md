@@ -1,4 +1,3 @@
-
 Adaptive RAG techniques: New papers like Adaptive RAG and Corrective-RAG propose dynamically selecting RAG strategies based on query complexity. Implementations are available as LangChain and LlamaIndex cookbooks.
 
 @cohere released Command R+, a 104B parameter model with 128k context length, 
@@ -11,4 +10,7 @@ Protobuf
 Langchain
 
 CS 25 Transformers Course 
+Hugging Face NLP Course
+and AI Open Source Contribution
 
+Building AI Agents and be AI Engineer
