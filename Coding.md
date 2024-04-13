@@ -3,13 +3,19 @@ Elegent Code
 In reality, a balanced combination of both—understanding the approach and then diving into the code—is ideal for holistic development.
 
 DRY: Don't Repeat your self
+
 KISS: keep it simple, stupid.
+
 Premature Optimization is the Root of All Evil: Coined by Donald Knuth. It warns against optimizing before understanding what parts of the codebase are performance bottlenecks.
 
 Separation of Concerns: Different concerns should be isolated from each other to achieve modularization.
+
 Fail Fast: Systems should be designed to immediately report any failure or conditions likely to lead to failure.
+
 Occam's Razor: Among competing hypotheses, the one with the fewest assumptions should be selected.
+
 Eat Your Own Dog Food: Use your products, it's the best way to find out how they work in real-world scenarios.
+
 Law of Demeter (Principle of Least Knowledge): An object should only communicate to its immediate neighbors and know as little as possible beyond that.
 
 Go with worst or at least average-case analysis, never best-case analysis
