@@ -34,4 +34,5 @@ Initialize model via APIs to generate text based on Prompts
 - Guide Generation with Context - Provide Source information and try to fetch specific info for that.
 - Debugging - LangSmith: DevOps platform for developing, collaborating, testing, deploying, and monitoring LLM applications, LangSmith allows users to trace and evaluate their language model applications and intelligent agents, providing tools for debugging, testing, and evaluating LLM applications to ensure high-quality outputs and performance monitoring. It supports all phases of the development lifecycle, addressing the challenges posed by the non-determinism and unpredictable nature of natural language inputs in LLMs
 
+https://yudkowsky.tumblr.com/writing
 
