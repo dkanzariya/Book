@@ -23,6 +23,8 @@ allows nested access to the event loop: enables the execution of multiple event 
 
 In a nested event loop scenario, an outer event loop can spawn or create an inner event loop, which can then process its own events independently of the outer loop. This allows for more complex and flexible event handling, as it enables the creation of hierarchical or layered event processing structures.
 
+# Multi Agent Callaboration.
+Diffusion models
 # Langchain - LLMs powered Apps
 
 Initialize model via APIs to generate text based on Prompts
